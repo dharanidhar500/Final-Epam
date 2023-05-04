@@ -35,6 +35,9 @@ public class Pagebin_Project_Test {
         page.Submit();
         Thread.sleep(2000);
 
+        driver.quit();
+
+
     }
 
 
